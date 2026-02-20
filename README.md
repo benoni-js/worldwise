@@ -26,7 +26,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/benoni-js/worldwise.git](https://github.com/benoni-js/worldwise.git)
+    git clone https://github.com/benoni-js/worldwise.git
     cd worldwise
     ```
 
